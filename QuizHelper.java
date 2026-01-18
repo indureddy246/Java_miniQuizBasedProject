@@ -1,6 +1,4 @@
 
-package gqtindu;
-
 public class QuizHelper {
     public static void wrongEnd(String name, int reward) {
         System.out.println(Colors.RED + name + " it is wrong answer. Game Over." + Colors.RESET);
