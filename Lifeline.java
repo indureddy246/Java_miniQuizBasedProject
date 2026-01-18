@@ -1,4 +1,4 @@
-package gqtindu;
+
 
 import java.util.Scanner;
 
